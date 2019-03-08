@@ -2,7 +2,7 @@
                         Program No.		: Kalibbala_Richard_H6.cpp
 	                    Programmer		: Richard Kalibbala
 	                	Course/Section	: ELET 2300?04/17955 
-		                Instructor		: Dr. F. Attarzadeh
+		              	
 	                    Date Assigned	: 11/07/2017
 	                    Date Modified	: 11/15/2017
                      	Due Date		: 11/16/2017
