@@ -1,4 +1,5 @@
 # rkmCPlusProg
+Richard Kalibbala
 A C++ program
 
 
